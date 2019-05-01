@@ -53,4 +53,4 @@ localhost:8000/CompetitionSeeker/
 | Jason | 2101700371 | [jasonkurniadj@yahoo.com](mailto:jasonkurniadj@yahoo.com?subject=[GitHub]CI-CompetitionSeeker)
 
 <br/>
-> [QXY](https://github.com/jasonkurniadj)
+> QXY
