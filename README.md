@@ -54,5 +54,5 @@ localhost:8000/CompetitionSeeker/
 
 For more information please contact me at [jasonkurniadj@yahoo.com](mailto:jasonkurniadj@yahoo.com?cc=jasonkurniadj@gmail.com&subject=[GitHub]%20CI-CompetitionSeeker)
 
-<br/>
+
 > QXY
