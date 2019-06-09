@@ -1,5 +1,5 @@
 # CI-CompetitionSeeker
-This project is intended for Software Engineering courses at Binus University in 2019 by using the CodeIgniter framework.
+` This project is intended for COMP6100 - Software Engineering (LB08-LEC) assignments at BINUS University in 2018, even semester by using CodeIgniter framework `
 
 ## Overview
 Competition Seeker is a portal that connects potential contestants to the competition with competition organizers quickly and easily.
@@ -48,9 +48,11 @@ localhost:8000/CompetitionSeeker/
 7. Tadaaa...
 
 ## Authors
-| Name | NIM | Email |
-| --- | --- | --- |
-| Jason | 2101700371 | [jasonkurniadj@yahoo.com](mailto:jasonkurniadj@yahoo.com?subject=[GitHub]CI-CompetitionSeeker)
+| Name | NIM |
+| --- | --- |
+| Jason | 2101700371 |
+
+For more information please contact me at [jasonkurniadj@yahoo.com](mailto:jasonkurniadj@yahoo.com?cc=jasonkurniadj@gmail.com&subject=[GitHub]%20CI-CompetitionSeeker)
 
 <br/>
 > QXY
